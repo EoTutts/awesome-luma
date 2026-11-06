@@ -27,7 +27,6 @@ principal. Confira no README de cada jogo se o download é código-fonte ou
 um pacote para instalar. As distribuições experimentais da conta EoTutts
 listadas abaixo são para **R36S RK3326/Linux ARM64**, com requisitos, créditos
 e SHA-256 nos respectivos repositórios; não são pacotes para GA36/ARMv7.
-O TopSpeed também fornece o arquivo de fontes correspondente na release.
 
 ## Engine
 
@@ -84,6 +83,13 @@ O TopSpeed também fornece o arquivo de fontes correspondente na release.
   cada onda. Um bipe na direção do zumbi na mira diz a distância, então dá para
   jogar sem fone. Sons do Swamp, do Aprone. Versão 0.1.0, sem release ainda.
   [Baixar](https://github.com/gogabs/dead-vs-alive/archive/refs/heads/main.zip)
+- [Rolê](https://github.com/gogabs/luma-role) — Patinação urbana sem parar: você
+  patina sozinho, cada obstáculo avisa em três batidas com um som próprio e
+  você pula, freia, pega rampa, desliza no corrimão, desce escadas e faz curvas,
+  além das manobras no ar. O combo faz a música ganhar camadas e três quedas
+  encerram a corrida. Jogável sem estéreo e com pixel art. Protótipo, versão
+  0.1.0, sem release ainda.
+  [Baixar](https://github.com/gogabs/luma-role/archive/refs/heads/main.zip)
 
 - [Pokémon ShowUp](https://github.com/EoTutts/pokemon-showup) — Batalhas
   Pokémon com times de seis, IA, dois jogadores no mesmo console, partidas em
@@ -100,21 +106,6 @@ O TopSpeed também fornece o arquivo de fontes correspondente na release.
   velocidade crescente e gráficos opcionais. Versão 1.0.0, distribuição
   experimental para R36S ARM64.
   [Baixar](https://github.com/EoTutts/galope/releases/download/v1.0.0-distribution.20261106/galope-linux-arm64.zip)
-- [TopSpeed R36S Pixel](https://github.com/EoTutts/topspeed-r36s) — Corrida
-  acessível em um circuito urbano inspirado em Las Vegas, com 30 carros,
-  câmbio, orientação sonora e gráficos em pixel art. Versão 2026.10.17.1,
-  distribuição experimental para R36S ARM64.
-  [Baixar](https://github.com/EoTutts/topspeed-r36s/releases/download/v2026.10.17.1-distribution.20261106/topspeed-r36s-linux-arm64.zip)
-- [Mar de Bolhas](https://github.com/EoTutts/mar-de-bolhas) — Você é uma bolha
-  que sobe sem parar: absorva bolhas menores, cresça e encontre as passagens
-  entre os espinhos, guiado pelo som. Versão 0.1.0, distribuição experimental
-  para R36S ARM64.
-  [Baixar](https://github.com/EoTutts/mar-de-bolhas/releases/download/v0.1.0-distribution.20261106/mar-de-bolhas-linux-arm64.zip)
-- [Linha de Costa](https://github.com/EoTutts/linha-de-costa) — Corrida arcade
-  acessível pelo litoral, com pista de dois quilômetros, três voltas, cinco
-  rivais, treino e orientação sonora. Versão 0.1.1, distribuição experimental
-  para R36S ARM64.
-  [Baixar](https://github.com/EoTutts/linha-de-costa/releases/download/v0.1.1-distribution.20261106/linha-de-costa-linux-arm64.zip)
 
 ## Apps
 
